@@ -12,7 +12,7 @@
 ---------------------
 * 下载各种软件速度过慢
     * 安装完ubuntu后，直接更换下载源（用阿里云的源）
-    * [配置方法]https://blog.csdn.net/sikong00/article/details/80237415
+    * 配置方法[https://blog.csdn.net/sikong00/article/details/80237415]
     * sudo apt-get update(更新源列表)， sudo apt upgrade（更新软件）
 * 屏幕过小--xrandr -s 1600x1200
 * root权限管理
